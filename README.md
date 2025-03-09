@@ -1,5 +1,6 @@
 # miscellaneous
-1. [add prettier]()
+1. [add prettier](https://github.com/DevMehrab/miscellaneous/tree/main#-add-prettier-to-ur-project-)
+2. [add tailwind]()
 ## 🟣 Add Prettier to ur project 🟣
 - step-1: `npm install --save-dev prettier` 
 - step-2: ```"scripts": {
